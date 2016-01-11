@@ -1,0 +1,40 @@
+body{
+	margin: auto;
+	/*background-color: #000;*/
+	background-image: url(../images/blck.png);
+}
+.clear {
+	clear: both;
+	height: 5px;
+}
+
+/*--------< header.tpl.php Starts >--------*/
+.logo {
+	margin-top: 100px;
+	text-align: center;
+}
+
+#nav-head {
+	margin-top: 50px;
+}
+#nav-head a { 
+	color:#ccc; 
+	font-size: 1.2em;
+}
+.navbar .nav:hover {
+	color:#fff;
+}
+
+/*--------< header.tpl.php Ends >--------*/
+
+
+/*--------< index.php Starts >-------- */
+
+.jumbotron	{
+	background:none;
+}
+.jumbotron p {
+	color:#ccc;
+}
+
+/*--------< index.php Ends >-------- */
