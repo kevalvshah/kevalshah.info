@@ -10,7 +10,9 @@ body{
 
 /*--------< header.tpl.php Starts >--------*/
 
-nav:hover {
+.nav-pills > li > a,
+.nav-pills > li > a:hover,
+.nav-pills > li > a:focus {
 	color:#fff;
 }
 @media screen and (max-width: 768px){
@@ -22,6 +24,11 @@ nav:hover {
 #nav-head a { 
 	color:#ccc; 
 	font-size: 1.5em;
+}
+#nav-head a:hover { 
+	font-size: 1.5em;
+	background:none;
+	color:#000;
 }	
 }
 @media screen and (min-width:768px){
@@ -38,7 +45,17 @@ nav:hover {
 	color:#000; 
 	font-size: 1.5em;
 }
-
+#nav-head a:hover { 
+	font-size: 1.5em;
+	background-color: #e5f6ff;
+	border-radius: 0px;
+}
+.nav-pills > li + li {
+  margin-left: 0px;
+}
+.nav-pills > li > a > .badge {
+  margin-left: 0px;
+}
 }
 
 
