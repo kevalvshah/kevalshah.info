@@ -30,7 +30,7 @@
                     <div class="collapse navbar-collapse" id="myNavbar">
                         <ul class="nav  nav-justified nav-pills navbar-static-top" >
                             <li><a href="index.php"><span>Home</span></a></li>
-                            <li><a href="about-me.php"><span>About ME</span></a></li>
+                            <li><a href="about-me.php"><span>About Me</span></a></li>
                             <li><a href="skills.php"><span>Skills</span></a></li>
                             <li><a href="portfolio.php"><span>Portfolio</span></a></li>
                             <li><a href="contact.php"><span>Contact</span></a></li>

@@ -1,6 +1,6 @@
-<div class="row footer" style="background:url(images/gem.svg);margin-bottom:0px;text-align:center;">
+<div class="row footer" style="text-align:center;"> 
     <div class="container">
-        <div class="navbar navbar-default col-lg-4 col-xs-12" style=
+        <div class="navbar navbar-default col-md-4 col-xs-12" style=
         "background:none;border:none;margin-top:10px;margin-bottom:0px;height:20px;">
             <nav class="container">
                 <ul class="nav nav-pills">
@@ -11,6 +11,9 @@
                         <a href="aboutus.php">About Us</a>
                     </li>
                     <li>
+                        <a href="skills.php">Skills</a>
+                    </li>
+                    <li>
                         <a href="portfolio.php">Portfolio</a>
                     </li>
                     <li>
@@ -19,14 +22,11 @@
                 </ul>
             </nav>
         </div>
-        <div class="col-lg-4 col-xs-12" style="margin-top:5px;text-align:center;">
-            <img alt="facebook" class="img-rounded" height="35px;" src="images/social-icons/social-facebook.svg" width="45px;"> 
-            <img alt="google+" class="img-rounded" height="35px;" src="images/social-icons/social-googleplus.svg" width="45px;"> 
-            <img alt="pinterest" class="img-rounded" height="35px;" src="images/social-icons/social-pinterest-outline.svg" width="45px;"> 
-            <img alt="twitter" class="img-rounded" height="35px;" src="images/social-icons/twitter.svg" width="45px;">
+        <div class="col-md-4 col-xs-12" style="padding-top:10px;padding-left:50px">
+             <a href="https://uk.linkedin.com/in/keval-shah-791803105"><img src="images/footer/linkedin.png" height="30px;"></a> 
         </div>
-        <div class="col-lg-4 col-xs-12" style="margin-top:17.5px;">
-            <p>.All right reserved <span style="color:#cfcfcf">UniCode Group</span> &copy 2015</p>
+        <div class="col-md-4 col-xs-12" style="margin-top:17.5px;">
+            <p>.All right reserved <span style="color:#cfcfcf">Keval Shah</span> &copy 2016</p>
         </div>
     </div>
 </div>
