@@ -101,3 +101,19 @@ body{
 }
 
 /*--------< index.php Ends >-------- */
+
+/*--------< About-me.php Starts >-------- */
+#about-me  h1 {
+	font-size: 4em;
+}
+
+#about-me  p {
+	margin-bottom: 0px;
+	font-size: 2.25em;
+}
+#about-me{
+	color:#b3b3b3;
+}
+
+
+/*--------< About-me.php Ends >-------- */
