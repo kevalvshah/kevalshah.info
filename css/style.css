@@ -50,8 +50,9 @@ body{
 	background-color: #e5f6ff;
 	border-radius: 0px;
 }
-.nav-pills > li + li {
-  margin-left: 0px;
+#nav-head {
+  /*margin-left: 20px;*/
+
 }
 .nav-pills > li > a > .badge {
   margin-left: 0px;
@@ -103,6 +104,7 @@ body{
 /*--------< index.php Ends >-------- */
 
 /*--------< About-me.php Starts >-------- */
+#about-me {background-image: url(../images/about-me/background.png);}
 #about-me  h1 {
 	font-size: 4em;
 }
@@ -117,3 +119,14 @@ body{
 
 
 /*--------< About-me.php Ends >-------- */
+/*--------< Skills.php Starts >-------- */
+/*--------< Skills.php Ends >-------- */
+/*--------< Portfolio.php Starts >-------- */
+/*--------< Portfolio.php Ends >-------- */
+/*--------< Contact.php Starts >-------- */
+.contact{
+	font-size: 1.8em;
+	color:#ccc;
+}
+
+/*--------< Contact.php Ends >-------- */
