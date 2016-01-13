@@ -120,6 +120,64 @@ body{
 
 /*--------< About-me.php Ends >-------- */
 /*--------< Skills.php Starts >-------- */
+@media screen and (max-width: 768px){
+	.tech-skills{
+		text-align: justify;
+		color:#fff;
+		margin: 20px 0px;
+		padding-bottom: 100px;
+		background-image: url(../images/skills/bg1.png);
+	}
+	.tech-skills img{
+		width:75px;height: 75px;
+		margin-left:20px;
+	}
+	.tech-skills img:hover{
+		width: 90px;height: 100px;
+	}
+	#img-only{
+		margin-left:20px;
+	}
+	#img-only h3{
+		color:#ccc;
+		font-size: 2em;
+		margin-bottom:20px;
+	}	
+	.skill-img{
+		margin-left: 50px;
+	}
+}
+
+	/*Desktop Skills.php*/
+@media screen and (min-width:768px){
+
+	.tech-skills{
+		color:#fff;
+		margin: 100px 0px;
+		padding-bottom: 50px;
+		background-image: url(../images/skills/bg1.png);
+	}
+	.tech-skills img{
+
+		margin-left:20px;
+	}
+	.tech-skills img:hover{
+		width: 120px;height: 100px;
+	}
+	#img-only{
+		
+		margin-left:40px;
+	}
+	#img-only h3{
+		color:#ccc;
+		font-size: 2em;
+		margin-bottom:20px;
+	}
+	.skill-img{
+		margin-left: 11em;
+	}
+}
+
 /*--------< Skills.php Ends >-------- */
 /*--------< Portfolio.php Starts >-------- */
 /*--------< Portfolio.php Ends >-------- */
