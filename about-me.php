@@ -17,23 +17,23 @@
 	
 				<div style="margin-top:10px;">
 					<p style="font-size:1.6em;">
-					• Ability to work as a team member and independently.
+					&middot; Ability to work as a team member and independently.
 					</p>
 					<p style="font-size:1.6em;">
-					• Ability to perform in a fast-paced agile environment.
+					&middot; Ability to perform in a fast-paced agile environment.
 					</p>
 					<p style="font-size:1.6em;">
-					• Ability to manage and deliver on multiple concurrent project tasks.
+					&middot; Ability to manage and deliver on multiple concurrent project tasks.
 					</p>
 					<p style="font-size:1.6em;">
-					• Strong analytical and problem solving with excellent verbal communication and client interacting skills.
+					&middot; Strong analytical and problem solving with excellent verbal communication and client interacting skills.
 					</p>
 						
 				</div>
 				<div style="margin-top:20px;">
 					<h1 style="font-size:2.5em;">Qualifications</h1>
 					<p style="font-size:1.6em;">
-							• 2011-2014 Bachelor of Science (Information and Technology)
+							&middot; 2011-2014 Bachelor of Science (Information and Technology)
 					</p>
 				</div>
 				<div class="about-skills" >
