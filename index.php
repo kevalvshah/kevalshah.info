@@ -23,9 +23,9 @@
 				<h2 style="margin-bottom:0px;">Yogi Divine Society</h2>
 				<h4 style="margin-top:0px">is a social and cultural charity</h4>
 				<p><b>Key Responsibility</b></p>
-				<p>•	Developing/Maintaining Website.</p>
-				<p>•	Responsible for all functions associated with the design, implementation and maintenance of a web server including new feature release, backup and content collection for review.</p>
-				<p>•	Developing Custom Web Controls using web forms and CSS, JQuery, JavaScript, and tracking the development through Scrum methodology.</p>
+				<p>&diams;	Developing/Maintaining Website.</p>
+				<p>&diams;	Responsible for all functions associated with the design, implementation and maintenance of a web server including new feature release, backup and content collection for review.</p>
+				<p>&diams;	Developing Custom Web Controls using web forms and CSS, JQuery, JavaScript, and tracking the development through Scrum methodology.</p>
 			</div>
 		</div>
 		<div class="row" style="text-align:right;">

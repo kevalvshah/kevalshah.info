@@ -8,6 +8,7 @@ body{
 	height: 5px;
 }
 
+/*----------------------------------------------------------------------------*/
 /*--------< header.tpl.php Starts >--------*/
 
 .nav-pills > li > a,
@@ -16,53 +17,52 @@ body{
 	color:#fff;
 }
 @media screen and (max-width: 768px){
-.logo {
-	margin-top: 50px;
-	text-align: center;
-}
+	.logo {
+		margin-top: 50px;
+		text-align: center;
+	}
 
-#nav-head a { 
-	color:#ccc; 
-	font-size: 1.5em;
-}
-#nav-head a:hover { 
-	font-size: 1.5em;
-	background:none;
-	color:#000;
-}	
+	#nav-head a { 
+		color:#ccc; 
+		font-size: 1.5em;
+	}
+	#nav-head a:hover { 
+		font-size: 1.5em;
+		background:none;
+		color:#000;
+	}	
 }
 @media screen and (min-width:768px){
-.logo {
-	margin-top: 100px;
-	text-align: center;
-}
+	.logo {
+		margin-top: 75px;
+		text-align: center;
+	}
 
-	#nav-head{
-	background-color: #b3e5ff;
-	margin-top: 50px;
-}
-#nav-head a { 
-	color:#000; 
-	font-size: 1.5em;
-}
-#nav-head a:hover { 
-	font-size: 1.5em;
-	background-color: #e5f6ff;
-	border-radius: 0px;
-}
-#nav-head {
-  /*margin-left: 20px;*/
+		#nav-head{
+		background-color: #b3e5ff;
+		margin-top: 50px;
+	}
+	#nav-head a { 
+		color:#000; 
+		font-size: 1.5em;
+	}
+	#nav-head a:hover { 
+		font-size: 1.5em;
+		background-color: #e5f6ff;
+		border-radius: 0px;
+	}
+	#nav-head {
+	  /*margin-left: 20px;*/
 
-}
-.nav-pills > li > a > .badge {
-  margin-left: 0px;
-}
+	}
+	.nav-pills > li > a > .badge {
+	  margin-left: 0px;
+	}
 }
 
 
 /*--------< header.tpl.php Ends >--------*/
-
-
+/*----------------------------------------------------------------------------*/
 /*--------< index.php Starts >-------- */
 
 .jumbotron	{
@@ -102,7 +102,7 @@ body{
 }
 
 /*--------< index.php Ends >-------- */
-
+/*----------------------------------------------------------------------------*/
 /*--------< About-me.php Starts >-------- */
 #about-me {background-image: url(../images/about-me/background.png);}
 #about-me  h1 {
@@ -117,9 +117,11 @@ body{
 	color:#b3b3b3;
 }
 
-
 /*--------< About-me.php Ends >-------- */
+/*----------------------------------------------------------------------------*/
 /*--------< Skills.php Starts >-------- */
+
+	/*Mobile Skills.php*/
 @media screen and (max-width: 768px){
 	.tech-skills{
 		text-align: justify;
@@ -148,6 +150,7 @@ body{
 	}
 }
 
+
 	/*Desktop Skills.php*/
 @media screen and (min-width:768px){
 
@@ -171,7 +174,7 @@ body{
 	#img-only h3{
 		color:#ccc;
 		font-size: 2em;
-		margin-bottom:20px;
+		margin-top: 0px;
 	}
 	.skill-img{
 		margin-left: 11em;
@@ -179,12 +182,49 @@ body{
 }
 
 /*--------< Skills.php Ends >-------- */
+/*----------------------------------------------------------------------------*/
 /*--------< Portfolio.php Starts >-------- */
+	/*Desktop Portfolio*/
+
+.portfolio{
+	margin-top:100px;
+	margin-bottom: 75px;
+}
+@media screen and (min-width:768px){
+	.rect-1{
+		width:100%;
+		height:456px;
+		border:1px solid #fff;
+	}
+	.rect-2 img{
+		width: 100%;
+		height: 256px;
+		border:1px solid #fff;
+	}
+	.rect-3 img{
+		width:100%;
+		height: 168px;
+		margin-top:30px;
+		background-color: #ccc;
+		border:1px solid #fff;
+
+	}
+	.rect-4 img{
+		width:100%;
+		height: 360px;
+		background-color: #cfcfcf;
+		border:1px solid #fff;
+	}
+	.mobile-portfolio{
+		display: none; 	
+	}
+}
 /*--------< Portfolio.php Ends >-------- */
+/*----------------------------------------------------------------------------*/
 /*--------< Contact.php Starts >-------- */
 .contact{
 	font-size: 1.8em;
 	color:#ccc;
 }
-
 /*--------< Contact.php Ends >-------- */
+/*----------------------------------------------------------------------------*/

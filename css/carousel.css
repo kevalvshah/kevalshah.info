@@ -5,8 +5,9 @@
 -------------------------------------------------- */
 
 /* Carousel base class */
+
 .carousel {
-  height: 400px;
+  height: 512px;
   margin-bottom: 60px;
 }
 /* Since positioning the image, we need to help out the caption */
@@ -16,15 +17,15 @@
 
 /* Declare heights because of positioning of img element */
 .carousel .item {
-  height: 400px;
-/*  background-color:#fff;*/
+  height: 512px;
+  background-color:#fff;
 }
 .carousel-inner > .item > img {
   position: absolute;
   top: 0;
   left: 0;
   min-width: 100%;
-  height: 400px;
+  height: 512px;
 }
 
 

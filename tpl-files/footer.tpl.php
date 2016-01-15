@@ -3,12 +3,12 @@
         <div class="navbar navbar-default col-md-4 col-xs-12" style=
         "background:none;border:none;margin-top:10px;margin-bottom:0px;height:20px;">
             <nav class="container">
-                <ul class="nav nav-pills">
+                <ul class="nav nav-tabs">
                     <li>
                         <a href="index.php">Home</a>
                     </li>
                     <li>
-                        <a href="aboutus.php">About Us</a>
+                        <a href="about-me.php">About Us</a>
                     </li>
                     <li>
                         <a href="skills.php">Skills</a>
