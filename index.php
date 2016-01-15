@@ -11,56 +11,58 @@
 	</div>
 	<div class="clear"></div>
 
-	<div class="container-marketing">
-		<div class="header">
-			<img src="images/index/work.svg" width="75px" height="75px" style="margin-bottom:40px;"><span><span style="font-size:1.75em;">R</span>ecent Work</span>
-		</div>
-		<div class="row">
-			<div class="col-md-6 col-sm-6" style="text-align:justify;">
-				<img src="images/index/YDS.jpg" class="img-thumbnail" width="512" height="256" style="border:none;">
+	<div class="container-marketing" style="background-image:url(images/index/background.png);border-radius:10px;padding-bottom:10px;">
+		<div class="container-fluid">
+			<div class="header">
+				<img src="images/index/work.svg" width="75px" height="75px" style="margin-bottom:40px;"><span><span style="font-size:1.75em;">R</span>ecent Work</span>
 			</div>
-			<div class="col-md-6 col-sm-6">
-				<h2 style="margin-bottom:0px;">Yogi Divine Society</h2>
-				<h4 style="margin-top:0px">is a social and cultural charity</h4>
-				<p><b>Key Responsibility</b></p>
-				<p>&diams;	Developing/Maintaining Website.</p>
-				<p>&diams;	Responsible for all functions associated with the design, implementation and maintenance of a web server including new feature release, backup and content collection for review.</p>
-				<p>&diams;	Developing Custom Web Controls using web forms and CSS, JQuery, JavaScript, and tracking the development through Scrum methodology.</p>
+			<div class="row">
+				<div class="col-md-6 col-sm-6" style="text-align:justify;">
+					<img src="images/index/YDS.jpg" class="img-thumbnail" width="512" height="256" style="border:none;">
+				</div>
+				<div class="col-md-6 col-sm-6">
+					<h2 style="margin-bottom:0px;">Yogi Divine Society</h2>
+					<h4 style="margin-top:0px">is a social and cultural charity</h4>
+					<p><b>Key Responsibility</b></p>
+					<p>&diams;	Developing/Maintaining Website.</p>
+					<p>&diams;	Responsible for all functions associated with the design, implementation and maintenance of a web server including new feature release, backup and content collection for review.</p>
+					<p>&diams;	Developing Custom Web Controls using web forms and CSS, JQuery, JavaScript, and tracking the development through Scrum methodology.</p>
+				</div>
 			</div>
-		</div>
-		<div class="row" style="text-align:right;">
-			<div class="col-sm-3 pull-right">
-				<a href="portfolio.php"><button class="btn">View more of my work</button></a>
+			<div class="row" style="text-align:right;">
+				<div class="col-sm-3 pull-right">
+					<a href="portfolio.php"><button class="btn">View more of my work</button></a>
+				</div>
 			</div>
-		</div>
 
-		<div></div>
-		<div class="row">
-			<div class="header skill">
-			<img src="images/index/Skills.svg" width="75px" height="75px" style="margin-bottom:40px;"><span><span style="font-size:1.75em;">C</span>urrent Skills</span>
+			<div></div>
+			<div class="row">
+				<div class="header skill">
+				<img src="images/index/Skills.svg" width="75px" height="75px" style="margin-bottom:40px;"><span><span style="font-size:1.75em;">C</span>urrent Skills</span>
+				</div>
 			</div>
-		</div>
-		<div class="row skills">
-			<div class="col-md-3 col-xs-6">
-				<img src="images/index/html5.svg" class="img-circle" width="120" height="120">
-				<p style="color:#ffcd09;">HTML5</p>
+			<div class="row skills">
+				<div class="col-md-3 col-xs-6">
+					<img src="images/index/html5.svg" class="img-circle" width="120" height="120">
+					<p style="color:#ffcd09;">HTML5</p>
+				</div>
+				<div class="col-md-3 col-xs-6">
+					<img src="images/index/css3.svg" class="img-circle" width="120" height="120">
+					<p style="color:#a092b6;">CSS3</p>
+				</div>
+				<div class="col-md-3 col-xs-6">
+					<img src="images/index/js.svg" class="img-circle" width="120" height="120">
+					<p style="color:#e44d26;">JavaScript</p>
+				</div>
+				<div class="col-md-3 col-xs-6">
+					<img src="images/index/bootstrap.svg" class="img-circle" width="120" height="120">
+					<p style="color:#3399ff;">Bootstrap</p>
+				</div>
 			</div>
-			<div class="col-md-3 col-xs-6">
-				<img src="images/index/css3.svg" class="img-circle" width="120" height="120">
-				<p style="color:#a092b6;">CSS3</p>
-			</div>
-			<div class="col-md-3 col-xs-6">
-				<img src="images/index/js.svg" class="img-circle" width="120" height="120">
-				<p style="color:#e44d26;">JavaScript</p>
-			</div>
-			<div class="col-md-3 col-xs-6">
-				<img src="images/index/bootstrap.svg" class="img-circle" width="120" height="120">
-				<p style="color:#3399ff;">Bootstrap</p>
-			</div>
-		</div>
-		<div class="row" style="text-align:right;">
-			<div class="col-md-4 col-xs-12 pull-right">
-				<a href="skills.php"><button class="btn">Other Skills</button></a>
+			<div class="row" style="text-align:right;">
+				<div class="col-md-4 col-xs-12 pull-right">
+					<a href="skills.php"><button class="btn">Other Skills</button></a>
+				</div>
 			</div>
 		</div>
 	</div>

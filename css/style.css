@@ -70,11 +70,13 @@ body{
 }
 .jumbotron  {
 	color:#fff;
+	padding-bottom: 50px;
 }
 .jumbotron:hover{
 	color: #000;
 	border:none;
 	background-color: #e5f6ff;
+
 }
 		
 .container-marketing{
