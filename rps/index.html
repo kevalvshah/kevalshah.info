@@ -1,0 +1,28 @@
+ 
+
+<html>
+ <head>
+     <link rel="stylesheet" type="text/css" href="style.css">
+ </head>
+  <div id="container">
+    <header>
+      <div><img src="rps.png" alt="" width="240px" height="180px"></div>
+    </header>
+    <section class="user">
+      <h1>User Selects: </h1>
+      <img onclick="changeColor(this)" src="rock.png" alt="rock" class="userInput" id="options1" width="300px" height="300px">
+      <img onclick="changeColor(this)" src="paper.png" alt="paper" class="userInput" id="options2"  width="300px" height="300px">
+      <img onclick="changeColor(this)" src="scissors.png" alt="scissors" class="userInput" id="options3"  width="300px" height="300px">
+    </section>
+    
+    
+    <footer>
+      <h1> The results are.. </h1>
+      <!--Put results here-->
+      <p class="resultsOp"></p>
+      <button type="button" class="play" onclick="playAgain()">Play Again</button>
+    </footer>
+    <script src="app.js"></script>
+  </div>
+  
+</html>
